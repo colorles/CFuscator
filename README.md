@@ -27,7 +27,7 @@ Create a Folder and place the CFuscator BETA V0.1.py
 ╚═══════════════════════════════════════════════════════════════════════════╝
 Simply Drag .cs file and press enter
 ```
-## Resuly should be similar to this
+## Result should be similar to this
 ```PYTHON
 >>>
 [✓] Obfuscation completed successfully!
